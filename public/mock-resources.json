@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Safe Haven Shelter",
+      "description": "Emergency shelter for women and children fleeing domestic violence.",
+      "resource_type": "Shelter",
+      "gender_served": ["Women"],
+      "age_group": ["Adults", "Children"],
+      "population_focus": ["Domestic Violence Survivors"],
+      "languages": ["English", "Spanish"],
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60616",
+      "website": "https://safehavenexample.org",
+      "phone": "312-555-1234"
+    },
+    {
+      "name": "Freedom Legal Aid",
+      "description": "Free legal services for victims of human trafficking.",
+      "resource_type": "Legal Aid",
+      "gender_served": ["All Genders"],
+      "age_group": ["Adults", "Teens"],
+      "population_focus": ["Human Trafficking Survivors"],
+      "languages": ["English"],
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001",
+      "website": "https://freedomlegalaid.org",
+      "phone": "212-555-7890"
+    },
+    {
+      "name": "Hope Counseling Center",
+      "description": "Trauma-informed counseling for survivors of violence and exploitation.",
+      "resource_type": "Counseling",
+      "gender_served": ["Women", "Nonbinary"],
+      "age_group": ["Teens", "Adults"],
+      "population_focus": ["Survivors of Violence", "LGBTQ+"],
+      "languages": ["English", "Arabic", "Spanish"],
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "90012",
+      "website": "https://hopecounseling.org",
+      "phone": "213-555-9876"
+    }
+  ]
+  
